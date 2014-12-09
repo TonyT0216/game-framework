@@ -11,7 +11,7 @@ class PBATPlayer(Player.Player):
     rock_cut = .3
     paper_cut = .6
     total = 10
-    name = None
+    name = "Pat and Tony"
 
     # finds a player and his information
     def find_player(self, person):
